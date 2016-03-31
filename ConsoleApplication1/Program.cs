@@ -8,7 +8,7 @@ using System.Net.Http.Headers;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json;
 
-namespace ConsoleApplication1
+namespace JSONApiConsumer
 {
 
     class Program
