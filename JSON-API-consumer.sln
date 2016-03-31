@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON-API-consumer", "ConsoleApplication1\JSON-API-consumer.csproj", "{870A5E7C-EB83-4447-A3E9-B3FCBD7E4790}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DE159E87-1E67-4B9C-8004-6CD35A6AC912}"
-	ProjectSection(SolutionItems) = preProject
-		Clink.cs = Clink.cs
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
